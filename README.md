@@ -133,7 +133,5 @@ In this section I compated two oversampling algorithms to determine which algori
   ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/18ADA%20report.png)
  
  ## Summary
- 
-
-
+ The models demonstrated a relatively weak performance in determining credit risk, with similar accuracy, imbalance reports, and recall scores. However, the Ensemble models performed slightly better  with higher scores--they fell within the 99% precision range, due to the high imbalanced nature of the data. In recomending a model, I would determine that further analysis is needed and would not recomend a particular model used at this moment for predictions on credit risk. For improvements, models that can adapt best to class imbalance should be investigated and applied to such an intricate analysis.
 
