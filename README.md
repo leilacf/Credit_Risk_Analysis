@@ -8,7 +8,7 @@ As credit risk at its core is an unbalanced classification problem, varying tech
 Below you will find an analysis on the 6 machine learning models used.
 
 ### Resampling
-In this section I compated two oversampling algorithms to determine which algorithm results in the best performance. This entailed oversampling the data using the naive random oversampling algorithm and the SMOTE algorithm.
+In this section I compared two oversampling algorithms to determine which algorithm results in the best performance. This entailed oversampling the data using the naive random oversampling algorithm and the SMOTE algorithm.
 
 ### Oversampling
 - Naive Random Oversampling
