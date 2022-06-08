@@ -74,22 +74,22 @@ In this section I compated two oversampling algorithms to determine which algori
 ### Combination (Over and Under) Sampling
 - SMOTEENN Model
 
-- Balanced Accuracy Score: 65.50%
+  - Balanced Accuracy Score: 65.50%
 
- ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/10SMOTEENN%20balanced%20accurace%20score.png)
+  ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/10SMOTEENN%20balanced%20accurace%20score.png)
  
  
- - Confusion Matrix
+  - Confusion Matrix
  
- ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/11SMOTEEN%20confusion%20matrix.png)
+  ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/11SMOTEEN%20confusion%20matrix.png)
  
  
- - Imbalanced Classification Report
- - Precision: 0.99
- - Recall: 0.56
- - F1: 0.71
+   - Imbalanced Classification Report
+   - Precision: 0.99
+   - Recall: 0.56
+   - F1: 0.71
 
- ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/12SMOTEENN%20report.png)
+   ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/12SMOTEENN%20report.png)
  
  ### Ensemble
  In this approach, I compared two ensemble algorithms to determine which algorithm results in the best performance. This entailed training a Balanced Random Forest Classifier and an Easy Ensemble AdaBoost classifier.
