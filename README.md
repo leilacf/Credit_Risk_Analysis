@@ -113,24 +113,24 @@ In this section I compated two oversampling algorithms to determine which algori
 
  ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/15Random%20forest%20report.png)
  
-- Easy Ensemble AdaBoost Classifier
+ - Easy Ensemble AdaBoost Classifier
  
- - Balanced Accuracy Score: 78.85%
+  - Balanced Accuracy Score: 78.85%
  
- ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/16ADA%20boost%20accuracy%20score.png)
- 
- 
- - Confusion Matrix
- 
- ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/17ADA%20confusion%20matrix.png)
+  ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/16ADA%20boost%20accuracy%20score.png)
  
  
- - Imbalanced Classification Report
- - Precision: 0.99
- - Recall: 0.87
- - F1: 0.93
+  - Confusion Matrix
+ 
+  ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/17ADA%20confusion%20matrix.png)
+ 
+ 
+   - Imbalanced Classification Report
+   - Precision: 0.99
+   - Recall: 0.87
+   - F1: 0.93
 
- ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/18ADA%20report.png)
+  ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/18ADA%20report.png)
  
  ## Summary
  
