@@ -53,22 +53,22 @@ In this section I compated two oversampling algorithms to determine which algori
 ### Undersampling
 - Cluster Centroids Model
 
- - Balanced Accuracy Score: 54.47%
+  - Balanced Accuracy Score: 54.47%
  
- ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/7Cluster%20centroids%20score.png)
- 
- 
- - Confusion Matrix
- 
- ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/8Cluster%20centroids%20confusion%20matrix.png)
+  ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/7Cluster%20centroids%20score.png)
  
  
- - Imbalanced Classification Report
- - Precision: 0.99
- - Recall: 0.40
- - F1: 0.56
+  - Confusion Matrix
+ 
+  ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/8Cluster%20centroids%20confusion%20matrix.png)
+ 
+ 
+   - Imbalanced Classification Report
+   - Precision: 0.99
+   - Recall: 0.40
+   - F1: 0.56
 
- ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/9Cluster%20centroids%20report.png)
+  ![This is an image](https://github.com/leilacf/Credit_Risk_Analysis/blob/main/Images/9Cluster%20centroids%20report.png)
  
  
 ### Combination (Over and Under) Sampling
